@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafizh Raihan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h2 align="center">Don't let money changes you</h2>
+<h4 align="center">I`m A passionate frontend developer from Indonesia</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🌱 I’m currently learning **ReactJS, MySQL, PHP**
